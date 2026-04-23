@@ -12,5 +12,5 @@ app.get('*', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`🎮 ZeroGameStudio running at http://localhost:${PORT}`);
+    console.log(`🎮 DarkGameStudio running at http://localhost:${PORT}`);
 });
